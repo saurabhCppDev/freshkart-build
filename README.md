@@ -5,6 +5,7 @@ Rules live in plain Python, the LLM only classifies intent and writes the reply.
 
 ## Build week map
 - **S1** `case_study.md`, `policy.md`: the architecture document and policy
+  (the trainer guide for the 2-hour architecture class is a separate Claude Doc shared by the instructor: https://claude.ai/code/artifact/9f8c3799-6d3d-4da7-bab1-cdc552963b55)
 - **S2** `freshkart_lcel.ipynb`: the pipeline built step by step
 - **S3** `bot.py` + `app.py`: the notebook as a .py file with a Streamlit UI and tests
 
